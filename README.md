@@ -12,14 +12,8 @@ Get ready to revolutionize your profile picture and experience the future of per
 
 Example Command Syntax: @pipgenbot [black glasses, grey hat, curly wig]
 
-## Contents
-- `index.html` — demo landing page
-- `styles.css` — styling
-- `app.js` — UI interactions (modal, animations)
-- `assets/` — optional images or icons
-
 ## License
-MIT
+Under Exclusive License to the Trenches.
 
 
 
